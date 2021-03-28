@@ -1,0 +1,26 @@
+From 090920041049f483831ce185152e408fdcffe2e4 Mon Sep 17 00:00:00 2001
+From: Andrei Suprun <andrei.suprun.by@gmail.com>
+Date: Mon, 29 Mar 2021 01:33:21 +0300
+Subject: [PATCH] edit second 2 lines
+
+---
+ FirstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/FirstFile.txt b/FirstFile.txt
+index 880f16d..27c4ba0 100644
+--- a/FirstFile.txt
++++ b/FirstFile.txt
+@@ -1,7 +1,7 @@
+ 1
+ 2
+-C
+-D
++3
++4
+ E
+ F
+ G
+-- 
+2.24.1.windows.2
+
